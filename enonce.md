@@ -84,6 +84,8 @@ Refactorisez `models.py` et `catalogue.py` en introduisant :
 
 Organisez votre code en fichiers et dossiers cohérents.
 
+De plus, vous devez fournir **un diagramme de classes UML** qui représente votre implémentation. Le diagramme doit être dans un format image (jpeg, png, etc.) ou s'afficher en markdown (avec mermaid ou autre).
+
 ---
 
 ## Contrainte principale
